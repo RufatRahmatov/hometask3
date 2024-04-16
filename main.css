@@ -325,7 +325,7 @@ margin-right: 0.5rem;
 .img_3 {
   display: flex;
   height: 470px;
-  background-color: green;
+  background-color:#4182cb;
   border-radius: 18px;
   max-width: 1250px;
   margin-left: auto;
@@ -543,11 +543,19 @@ footer a {
   height: 50rem;
 }
 
+.boxs {
+  width: 100%;
+}
+
+.title2{
+  width: 100%;
+}
 
 
 .img_5 img {
   position: absolute;
   bottom: 5rem;
+  width: 100%;
 
   transform: translate(-50%, calc(-50% + 250px));
   /* right: 10%;
@@ -589,7 +597,6 @@ footer a {
   display: flex;
   flex-direction: column;
   width: 5rem;
-
   justify-content: center;
 align-items: center;
 
